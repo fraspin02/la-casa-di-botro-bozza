@@ -67,6 +67,11 @@ p { margin: 0 0 1em; text-wrap: pretty; }
 .btn-light { border-color: var(--notte-ink); color: var(--notte-ink); }
 .btn-light:hover { background: var(--notte-ink); color: var(--notte); }
 .actions { display: flex; flex-wrap: wrap; gap: 12px; }
+/* Su telefono i pulsanti occupano tutta la riga, uno sotto l'altro */
+@media (max-width: 599px) {
+  .actions { flex-direction: column; }
+  main .btn { width: 100%; }
+}
 .link-arrow { font-weight: 600; text-decoration: none; display: inline-flex; gap: 6px; align-items: center; min-height: 44px; }
 .link-arrow::after { content: "→"; transition: transform .2s; }
 .link-arrow:hover::after { transform: translateX(3px); }
