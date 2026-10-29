@@ -1,0 +1,41 @@
+# La Casa di Botro
+
+> Agriturismo e azienda agricola della famiglia Colucci a Botricello (CZ), Calabria, sulla costa ionica tra Catanzaro e Crotone. Borgo rurale con casa padronale del 1817: 9 camere, 4 appartamenti, piscina, spiaggia privata a 4 km e ristorante di cucina calabrese con i prodotti dell'azienda.
+
+## Dati essenziali
+- Indirizzo: Via Benigno Zaccagnini 2, località Botro, 88070 Botricello (CZ), Italia
+- Coordinate: 38.93079, 16.85526
+- Telefono: +39 0961 966592 · prenotazioni +39 338 348 1376 · ristorante, ricevimenti e WhatsApp +39 327 467 7776
+- Email: info@botro.it
+- Società: Azienda e Agriturismo La Casa di Botro della famiglia Colucci, Società agricola semplice, P. IVA 03004160796
+- CIN IT079012B5IZP9MN33 · CIR 079012-AGR-00002
+- Marchio Ospitalità Italiana (Isnart)
+
+## Alloggio
+- 9 camere con bagno, aria climatizzata, TV satellitare e minibar: 6 nella casa padronale, 3 nella corte. Da 110 a 240 € a notte per camera, colazione compresa (Suite, Superior, Standard, Basic; stagione 2027).
+- 4 appartamenti con cucina (Mandorlo per 4 persone; Melograno, Fico e Gelso per 2 + 1): da 650 a 1.200 € a settimana.
+- Compresi: pulizia, piscina (maggio–settembre), spiaggia privata con ombrellone, lettino, sdraio e teli.
+- Promozione "3 giorni con noi": 10 € di sconto al giorno da tre notti in su. Bambini fino a 2 anni gratis.
+- Navetta su richiesta: Botricello stazione 5 €, Catanzaro Lido 25 €, Crotone stazione o aeroporto 40 €, Lamezia Terme stazione o aeroporto 65 € (per tratta, fino a 3 persone).
+
+## Piscina e spiaggia
+- Piscina 14 × 7 m con idromassaggio e geyser, TV-bar, riservata agli ospiti.
+- Spiaggia privata di sabbia a 4 km, fondale che scende dolcemente, riservata agli ospiti.
+
+## Ristorante e ricevimenti
+- Cucina calabrese e mediterranea con frutta, verdura, olio e carni dell'azienda. Chef Manuel Loprete, maître Mariano Mazzei.
+- Aperto dal 22 maggio al 30 settembre tutte le sere a cena; nel resto dell'anno la domenica a pranzo; banchetti tutto l'anno su richiesta.
+- Ricevimenti per matrimoni, battesimi, comunioni e cresime: veranda per oltre 200 invitati, sale climatizzate, patio, solarium, forno a legna, barbecue.
+
+## Azienda agricola
+- Circa 250 ettari: ulivi, frumento, orzo, albicocche, ceci, asparagi verdi; allevamento di polli, conigli, maiali e vitelli; metodi biologici e integrati.
+- Vendita diretta e spedizione: olio extravergine biologico, vino rosato Nike, marmellate, miele, asparagi, ceci.
+
+## Dintorni
+- Capo Rizzuto e Le Castella, Santa Severina, Crotone e Capo Colonna (40 km), Sila Piccola e Taverna, Tropea e Pizzo.
+
+## Pagine
+- [Home](index.html)
+- [Camere, appartamenti e prezzi](soggiorno.html)
+- [Ristorante e ricevimenti](tavola.html)
+- [Dintorni e itinerari](dintorni.html)

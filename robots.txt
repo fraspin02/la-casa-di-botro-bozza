@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fraspin02.github.io/la-casa-di-botro-bozza/sitemap.xml
